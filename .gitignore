@@ -1,0 +1,12 @@
+# MQL4 관련 불필요한 파일 무시
+*.ex4
+*.ex5
+*.log
+*.dat
+*.hst
+*.htm
+*.xml
+tester/*.*
+MQL4/Logs/*
+MQL4/Presets/*
+MQL4/Files/*
