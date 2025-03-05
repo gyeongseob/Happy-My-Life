@@ -10,3 +10,8 @@ tester/*.*
 MQL4/Logs/*
 MQL4/Presets/*
 MQL4/Files/*
+*.ex4
+*.ex5
+*.log
+tester/*.log
+tester/*.cache
